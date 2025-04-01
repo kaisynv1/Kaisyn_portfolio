@@ -24,7 +24,7 @@ website:
     right:
       - text: "Home"
         file: index.qmd
-      - text: "DS250 Projects"
+      - text: "Resume"
         file: 250_projects.qmd
 
   sidebar:
